@@ -17,7 +17,7 @@ I live in Malmö, Sweden, and I write code mostly for fun these days: tabletop R
 
 ## Elsewhere
 
-- Website: [harrisonripps.com](https://harrisonripps.com)
+- Blog and website: [harrisonripps.com](https://harrisonripps.com)
 
 ## Archives
 
